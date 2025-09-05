@@ -36,14 +36,16 @@ The demo is a Jupyter notebook that can be run in two ways:
    ```bash
    uv sync
    ```
-3. Start Jupyter:
-   ```bash
-   uv run jupyter lab
-   ```
-4. Set your Anthropic API key as an environment variable:
+3. Set your Anthropic API key as an environment variable:
    ```bash
    export ANTHROPIC_API_KEY=your_api_key_here
    ```
+4. Start VS Code:
+   ```bash
+   code .
+   ```
+5. Open the notebook `demo.ipynb` and click "Run All"
+
 
 ## Technical approach and key architectural decisions
 
