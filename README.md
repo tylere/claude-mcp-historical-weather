@@ -1,6 +1,11 @@
 # claude-mcp-historical-weather
 Demonstration of how to use Model Context Protocol (MCP) to connect Claude with historical weather data
 
+## Video Demonstrating the Tutorial
+
+[![Demo Video](https://img.youtube.com/vi/ouei7H56Vuo/0.jpg)](https://www.youtube.com/watch?v=ouei7H56Vuo)
+https://www.youtube.com/watch?v=ouei7H56Vuo
+
 ## Quick overview of what the demo does and why it's compelling
 
 This notebook demonstrates how to use an MCP tool to allow Claude to access, analyze, and chart historical weather data. 
