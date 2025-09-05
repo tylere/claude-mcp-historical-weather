@@ -95,7 +95,10 @@ I used Claude in a variety of ways:
 
 - Determine how to support queries that use units that are different than the underlying data. Currently, sunshine duration has to be specified in seconds, rather than the more natural unit of hours.
 - Add some additional climate indices (monthly averages, growing degree days, consecutive hot days, etc)
-- Separate the MCP Server logic into a stand-only server that can be run outside the notebook, so that other MCP clients can be used to access the functionality.
+- Demonstrate other MCP primitives (resources, prompts) to enhance the tool use.
+- Add some flowchart diagrams (Mermaid?) to the notebook to make it clearer how all the components fit together, and how the messages/data flow between components.
+- Re-record the video to make it shorter. Add sections to make the tool implementation progression easier to understand. 
+- Separate the MCP Server logic into a stand-only server that can be run outside the notebook, so that other MCP clients can be used to access the functionality. (but that would probably be a separate tutorial/demo)
 
 
 # Claude Use
