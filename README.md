@@ -1,10 +1,6 @@
 # claude-mcp-historical-weather
 Demonstration of how to use Model Context Protocol (MCP) to connect Claude with historical weather data
 
-<a target="_blank" href="https://colab.research.google.com/github/tylere/claude-mcp-historical-weather/blob/main/demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ## Quick overview of what the demo does and why it's compelling
 
 This notebook demonstrates how to use an MCP tool to allow Claude to access, analyze, and chart historical weather data. 
