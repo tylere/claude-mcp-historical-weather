@@ -1,6 +1,11 @@
 # claude-mcp-historical-weather
 Demonstration of how to use MCP to connect Claude with a historical weather API
 
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/tylere/claude-mcp-historical-weather/blob/main/demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 # Prompts
 
 ## Initial Prompt
