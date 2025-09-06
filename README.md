@@ -3,9 +3,9 @@ Demonstration of how to use Model Context Protocol (MCP) to connect Claude with 
 
 ## Video Demonstrating the Tutorial
 
-[![Demo Video](https://img.youtube.com/vi/ouei7H56Vuo/0.jpg)](https://www.youtube.com/watch?v=ouei7H56Vuo)
+[![Demo Video](https://img.youtube.com/vi/iR_9Tk1elyY/0.jpg)](https://www.youtube.com/watch?v=iR_9Tk1elyY)
 
-https://www.youtube.com/watch?v=ouei7H56Vuo
+https://www.youtube.com/watch?v=iR_9Tk1elyY
 
 ## Quick overview of what the demo does and why it's compelling
 
