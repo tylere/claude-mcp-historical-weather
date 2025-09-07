@@ -60,6 +60,9 @@ In order to make this demo run in Google Colab, the entire demo is contained in 
   - Chats with a Claude model using the registered tools
 - Demonstrate the MCP client integration for a series of weather queries
 
+![LLM-MCP Architecture](LLM-MCP.svg)
+
+
 **Key Technology Choices:**
 - Use the [Open-Meteo](https://open-meteo.com/) API for access to historical weather data
   - Use [caching](https://requests-cache.readthedocs.io/) to be kind to the free external API
